@@ -4,7 +4,9 @@ Hi 👋 My name is Amjad
 Game Developer
 --------------
 
-Since a young age, I have been interested in games and their graphics. And I always wondered how they were made. and now I am in the middle of the journey of learning about game development and how games are made!
+A fast-learning game developer with a strong knowledge of Unity, C#, C++, and problem-solving, I am seeking a position as a gameplay programmer.
+
+Through the last 3 years after graduating from university I have worked as a teaching assistant and competed in competitive programming contest as a student and as a coach, and also worked as a Unity developer for 2 years, and now I am currently engaged in the Information Technology Institute 9-month training program as a Game Programming trainee. 
 
 *   🌍  I'm based in Mansoura, Egypt
 *   ✉️  You can contact me at [amjadmohamed55@gmail.com](mailto:amjadmohamed55@gmail.com)
