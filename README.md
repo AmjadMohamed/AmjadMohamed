@@ -21,7 +21,7 @@ Through the last 3 years after graduating from university I have worked as a tea
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="36" height="36" alt="Unity" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
-<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="36" height="36" alt="UE" /></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/unreal-icon/unreal-icon-7.jpg" width="36" height="36" alt="UE" /></a>
 </p>
 
 ### Socials
