@@ -8,7 +8,7 @@ A fast-learning game developer with a strong knowledge of Unity, C#, C++, and pr
 
 Through the last 3 years after graduating from university I have worked as a teaching assistant and competed in competitive programming contest as a student and as a coach, and also worked as a Unity developer for 2 years, and now I am currently engaged in the Information Technology Institute 9-month training program as a Game Programming trainee. 
 
-*   🌍  I'm based in Mansoura, Egypt
+*   🌍  I'm based in Cairo, Egypt
 *   ✉️  You can contact me at [amjadmohamed55@gmail.com](mailto:amjadmohamed55@gmail.com)
 *   🧠  I'm learning Game Programming
 *   🤝  I'm open to collaborating on Interesting Gameplay Mechanics!
